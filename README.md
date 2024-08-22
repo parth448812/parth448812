@@ -25,7 +25,7 @@ I believe in the transformative power of technology and enjoy working on project
 ## 🎯 Goals
 
 - Learning more about cloud computing and AWS by gaining an AWS certification.
-- Mentor aspiring developers, helping them build a strong foundation in tech.
+- Become a software engineer at a company that allows me to explore and learn while doing my job.
 - Continue to evolve as a software engineer by embracing new challenges and technologies.
 
 ## 📫 Let's Connect!
