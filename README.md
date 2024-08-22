@@ -15,12 +15,12 @@ I believe in the transformative power of technology and enjoy working on project
 ### EMessageMe
 **Description:** Developed EMessageMe Android app, crafting both the UI and functionality from scratch. Leveraged Firebase as a NoSQL database for seamless user authentication and mailbox management. Designed and implemented features using Java, including email/password authentication, message creation and reply functionalities, message search, and user blocking/unblocking.  
 **Tech Stack:** Java, Firebase, Android  
-[[Link to the repository]([#](https://github.com/parth448812/Mobile-Application-Development/tree/main/More%20on%20Firebase%20and%20Data%20Storage/Assignment11))]  
+[Link to the repository](https://github.com/parth448812/Mobile-Application-Development/tree/main/More%20on%20Firebase%20and%20Data%20Storage/Assignment11)  
 
 ### NinerNav
 **Description:** During an agile development cycle, our team created NinerNav, a Geoguessr-like game for UNCC students, employing Low-Fidelity Models, Python, MySQL, HTML, Flask, CSS, and JavaScript to enhance campus exploration and acclimation through interactive gamification.  
 **Tech Stack:** Python, MySQL, HTML, Flask, CSS, JavaScript  
-[[Link to the repository]([#](https://github.com/sriyamac/NinerNav))]  
+[Link to the repository](https://github.com/sriyamac/NinerNav)
 
 ## 🎯 Goals
 
