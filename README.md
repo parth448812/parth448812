@@ -4,7 +4,7 @@ Hi there! I'm Parth Patel, a passionate software engineer and lifelong learner w
 
 ## 👨‍💻 About Me
 
-- **Education:** B.S. in Computer Science (Dec 2024), M.S. in Computer Science (Expected Dec 2025) from UNC Charlotte
+- **Education:** B.S. in Computer Science (Dec 2024), M.S. in Computer Science (Dec 2025) from UNC Charlotte
 - **Interests:** Software Engineering, Cloud Computing, Mobile App Development, Peer Tutoring
 - **Languages & Tools:** Python, Java, JavaScript, Terraform, AWS, Git, Apigee
 
